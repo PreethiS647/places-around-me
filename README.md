@@ -11,6 +11,7 @@ take screenshot
 
 
 ## Code:
+```
 <!DOCTYPE html>
 <html>
     <head>
@@ -33,6 +34,7 @@ take screenshot
     </h1>
 </body>
 </html>
+```
 
 ## Output:
 
