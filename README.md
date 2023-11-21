@@ -38,10 +38,10 @@ take screenshot
 
 ## Output:
 
-![output](place1.png)
-![output](place2.png)
-![output](place3.png)
-![output](place4.png)
-![output](place5.png)
+![output](./place1.png)
+![output](./place2.png)
+![output](./place3.png)
+![output](./place4.png)
+![output](,/place5.png)
 ## Result:
 Thus the program executed succesfully
