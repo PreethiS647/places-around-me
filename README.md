@@ -42,6 +42,6 @@ take screenshot
 ![output](./place2.png)
 ![output](./place3.png)
 ![output](./place4.png)
-![output](,/place5.png)
+![output](./place5.png)
 ## Result:
 Thus the program executed succesfully
