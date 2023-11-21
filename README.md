@@ -35,11 +35,11 @@ take screenshot
 </html>
 
 ## Output:
-![Alt text](<place 1.png>)
-![Alt text](<place 2.png>)
-![Alt text](<place 3.png>)
-![Alt text](<place 4.png>)
-![Alt text](<place 5.png>)
 
+![output](place1.png)
+![output](place2.png)
+![output](place3.png)
+![output](place4.png)
+![output](place5.png)
 ## Result:
 Thus the program executed succesfully
