@@ -38,6 +38,8 @@ take screenshot
 
 ## Output:
 
+![mangadu](https://github.com/PreethiS647/places-around-me/assets/147313372/29e8c389-2852-4006-9ab1-a5e5b4316fda)
+
 ![output](./place1.png)
 ![output](./place2.png)
 ![output](./place3.png)
